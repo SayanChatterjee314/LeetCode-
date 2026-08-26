@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1572-matrix-diagonal-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
