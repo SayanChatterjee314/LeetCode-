@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
@@ -37,11 +38,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
