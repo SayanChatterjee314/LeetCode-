@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
