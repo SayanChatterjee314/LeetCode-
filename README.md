@@ -9,12 +9,14 @@
 | [0042-trapping-rain-water](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SayanChatterjee2005/LeetCode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
